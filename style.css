@@ -1,0 +1,28 @@
+h4 {
+    color: #F9FCFF
+}
+
+body {
+    background-color: #4799B2;
+}
+
+#left {
+    background-color: #06497E;
+    height: 150vh;
+
+}
+
+.dp {
+    border-radius: 50%;
+    border-style: double;
+    border-width: 6
+}
+
+h3 {
+    color:#E2C183;
+    padding-left: 35px
+}
+#right{
+    padding-left: 55vh;
+    margin-right: 10vh
+}
